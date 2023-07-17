@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "intelliSenseMode": "clang-x64",
+            "name": "Win32",
+            "cppStandard": "c++11",
+            "cStandard": "c99",
+            "compilerPath": "C:/RT-ThreadStudio/platform/env_released/env/tools/gnu_gcc/arm_gcc/mingw/bin/riscv-none-embed-gcc",
+            "includePath": [
+                "applications",
+                "..\\Libraries\\ch32v20x_libraries\\bmsis",
+                "..\\Libraries\\ch32v20x_libraries\\bmsis\\include",
+                "..\\Libraries\\ch32v20x_libraries\\ch32v208_hal",
+                "..\\Libraries\\ch32v20x_libraries\\ch32v208_hal\\include",
+                "..\\..\\..\\..\\components\\libc\\compilers\\common\\include",
+                "..\\..\\..\\..\\libcpu\\risc-v\\common",
+                "..\\..\\..\\..\\components\\drivers\\include",
+                "board",
+                "..\\Libraries\\ch32_drivers",
+                "..\\..\\..\\..\\components\\finsh",
+                ".",
+                "..\\..\\..\\..\\include",
+                "..\\..\\..\\..\\components\\libc\\posix\\io\\poll",
+                "..\\..\\..\\..\\components\\libc\\posix\\io\\stdio",
+                "..\\..\\..\\..\\components\\libc\\posix\\ipc"
+            ],
+            "defines": [
+                "__RTTHREAD__"
+            ]
+        }
+    ],
+    "version": 4
+}

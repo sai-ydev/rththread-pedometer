@@ -1,0 +1,106 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\drivers\\hwtimer", 
+            "name": "rtthread/components/drivers/hwtimer"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\drivers\\i2c", 
+            "name": "rtthread/components/drivers/i2c"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\drivers\\include", 
+            "name": "rtthread/components/drivers/include"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\drivers\\ipc", 
+            "name": "rtthread/components/drivers/ipc"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\drivers\\misc", 
+            "name": "rtthread/components/drivers/misc"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\drivers\\rtc", 
+            "name": "rtthread/components/drivers/rtc"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\drivers\\serial", 
+            "name": "rtthread/components/drivers/serial"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\finsh", 
+            "name": "rtthread/components/finsh"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\libc\\compilers\\common", 
+            "name": "rtthread/components/libc/compilers/common"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\libc\\compilers\\common\\include", 
+            "name": "rtthread/components/libc/compilers/common/include"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\libc\\posix\\io\\poll", 
+            "name": "rtthread/components/libc/posix/io/poll"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\libc\\posix\\io\\stdio", 
+            "name": "rtthread/components/libc/posix/io/stdio"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\components\\libc\\posix\\ipc", 
+            "name": "rtthread/components/libc/posix/ipc"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\include", 
+            "name": "rtthread/include"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\libcpu\\risc-v\\common", 
+            "name": "rtthread/libcpu/risc-v/common"
+        }, 
+        {
+            "path": "..\\..\\..\\..\\src", 
+            "name": "rtthread/src"
+        }, 
+        {
+            "path": "..\\Libraries\\ch32_drivers", 
+            "name": "rtthread/Libraries/ch32_drivers"
+        }, 
+        {
+            "path": "..\\Libraries\\ch32v20x_libraries\\bmsis", 
+            "name": "rtthread/Libraries/ch32v20x_libraries/bmsis"
+        }, 
+        {
+            "path": "..\\Libraries\\ch32v20x_libraries\\bmsis\\include", 
+            "name": "rtthread/Libraries/ch32v20x_libraries/bmsis/include"
+        }, 
+        {
+            "path": "..\\Libraries\\ch32v20x_libraries\\bmsis\\source", 
+            "name": "rtthread/Libraries/ch32v20x_libraries/bmsis/source"
+        }, 
+        {
+            "path": "..\\Libraries\\ch32v20x_libraries\\ch32v208_hal", 
+            "name": "rtthread/Libraries/ch32v20x_libraries/ch32v208_hal"
+        }, 
+        {
+            "path": "..\\Libraries\\ch32v20x_libraries\\ch32v208_hal\\include", 
+            "name": "rtthread/Libraries/ch32v20x_libraries/ch32v208_hal/include"
+        }, 
+        {
+            "path": "..\\Libraries\\ch32v20x_libraries\\ch32v208_hal\\source", 
+            "name": "rtthread/Libraries/ch32v20x_libraries/ch32v208_hal/source"
+        }
+    ],
+    "settings": {
+        "RTT_Studio.Build.Parallel_Jobs": "16",
+        "RTT_Studio.Env_Location": "C:/RT-ThreadStudio/platform/env_released/env",
+        "RTT_Studio.Debuger.Bin_File": "C:/RT-ThreadStudio/repo/Extract/ToolChain_Support_Packages/ARM/GNU_Tools_for_ARM_Embedded_Processors/5.4.1/bin/arm-none-eabi-gdb.exe",
+        "RTT_Studio.Debuger.stlinkGdbServerExecutable": "C:/RT-ThreadStudio/repo/Extract/Debugger_Support_Packages/STMicroelectronics/ST-LINK_Debugger/1.6.0",
+        "RTT_Studio.Debuger.QEMU.Location": "C:/RT-ThreadStudio/repo/Extract/Debugger_Support_Packages/RealThread/QEMU/4.2.0.4"
+    }
+}
