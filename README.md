@@ -7,6 +7,12 @@ I wanted to build a pedometer that makes use of the:
 1. BLE capability
 2. Interfaces the BMI270 accelerometer
 
-I faced quite a bit of challenges in getting off the ground but I managed to interface the accelerometer. 
+The following items are complete:
 
-I couldn't get the BLE working. There is no official BLE support for this board.
+1. BMI270 accelerometer interface
+2. OLED display interface
+
+The following items are pending:
+
+BLE stack implementation using RT-Thread. 
+PCB design
