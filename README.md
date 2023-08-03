@@ -4,7 +4,7 @@ This is my entry for the RT-Thread OS contest. It is a low-cost, low-power pedom
 
 The prototype is built around the [CH32V208 dev board](https://github.com/openwch/ch32v20x/tree/main). 
 
-![project](figures\project.jpg)
+![project](figures/project.jpg)
 
 The image consists of the following components namely:
 
